@@ -20,3 +20,6 @@ for n in range(101):
 
     else :
         print(str(n))
+
+
+#reverse linked
