@@ -5,8 +5,8 @@ def sumar(ar):
     return (sum)
 
 
-
 ar = [5,2,7,3]
 
 summy = sumar(ar) 
 print(summy)
+
