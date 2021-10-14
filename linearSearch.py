@@ -1,3 +1,18 @@
+'''
+linear_search (list, value)
+
+    for each item in list 
+        if match item == value 
+            return the item's location 
+        end if 
+    end for 
+end
+'''
+
+
+
+
+
 list = [12 ,17 ,28 ,30 ,45 ,60 ]
 objectif = 28
 
