@@ -1,9 +1,6 @@
-target=18 
-arr= [2,7,11,15]
-
-def twosum(arr,target):
-    for i in range(len(arr)):
-        if arr[i]+arr[i+1] == target:
-            return i , i+1
-
-print(sum(arr, target))
+def twoSum(array, target):
+    for i in range(0, len(array)):
+        for j in range(i+1, len(array)):
+            
+            if array[i] + array[j] == target:
+                return ([array[i], array[j]])
