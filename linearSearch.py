@@ -14,7 +14,7 @@ end
 
 
 list = [12 ,17 ,28 ,30 ,45 ,60 ]
-objectif = 28
+objectif = 60
 
 
 for i in range(len(list)):
