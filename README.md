@@ -2,7 +2,7 @@
 
 ## Contributing :
 
-- Open issue , discuss proposal
+- Open issue , discuss proposal .
 - Fork and clone repository.
 - Change code .
 - Review changes .
