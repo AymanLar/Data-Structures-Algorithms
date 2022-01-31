@@ -4,7 +4,7 @@
 
 - Open issue , discuss proposal
 - Fork and clone repository
-- Change code 
+- Change code .
 - Review changes .
 - Send pull request .
 
